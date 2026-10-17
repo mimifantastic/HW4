@@ -1,5 +1,7 @@
 # CS 1300 - Homework 4: Worked Answers
 
+GitHub repository: [https://github.com/mimifantastic/HW4](https://github.com/mimifantastic/HW4)
+
 ## Section 1: Multiple Choice
 
 | Question | Answer | Explanation |
